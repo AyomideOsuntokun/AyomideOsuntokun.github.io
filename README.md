@@ -7,5 +7,5 @@
     .product-name {font-family: 'Courier New', Courier, monospace; font-size: 18px;}
     .description {font-size: 14px; font-style: oblique;}
     </style>
-  </head> 
+  </head>  
 
