@@ -34,6 +34,20 @@
       .price {
       text-decoration: underline;
     }
+    .image-gallery {
+      display: flex;
+      gap: 20px;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+    .image-gallery img {
+      width: 300px;
+      height: 200px;
+      object-fit: cover;
+      border: 1px solid #ccc;
+      padding: 5px;
+      background: #fff;
+    }
     </style>
   </head>
   
@@ -47,6 +61,8 @@
     <li><strong class="product-name">EcoIrrigate</strong> – An irrigation system that focuses on saving water. <u><em>(Price:$1600 per acre)</em></u></li>
     <li><strong class="product-name">SmartSoil Sensors</strong> – Soil sensors that monitor soil health. <u><em>(Price:$400 for 1, $600 for 2)</em></u></li>
   </ol>
+
+  <p>Here are some images of the described featured products:</p>
 
   <div class="image-gallery">
     <img src="https://www.croptracker.com/images/blog/10_Emerging_AgTech_Innovations/sprayer_drone500.jpg" alt="Sprayer Drone">
