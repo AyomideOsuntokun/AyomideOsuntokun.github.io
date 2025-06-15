@@ -1,4 +1,3 @@
-<html>
   <head>
     <title> Coltivare - Farming Products & Services </title>
     <style>
@@ -9,4 +8,4 @@
     .description {font-size: 14px; font-style: oblique;}
     </style>
   </head> 
-</html>
+
